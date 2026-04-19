@@ -52,7 +52,7 @@
 
 ```
 $ mohammed-fawaz
-location : coimbatore, in
+location : kerala, in
 status   : available for the right problem
 exit     : 0
 ```
